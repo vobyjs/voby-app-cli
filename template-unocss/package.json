@@ -1,0 +1,21 @@
+{
+  "name": "my-voby-project",
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview --port 5000"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "unocss": "^0.32.13",
+    "vite": "^2.9.7"
+  },
+  "dependencies": {
+    "voby": "*"
+  },
+  "private": true
+}

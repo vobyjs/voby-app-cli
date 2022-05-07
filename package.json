@@ -1,0 +1,30 @@
+{
+  "name": "create-voby-app",
+  "version": "1.0.15",
+  "license": "MIT",
+  "author": "ZeAmanuel Tigistu",
+  "bin": {
+    "create-voby-app": "index.js"
+  },
+  "files": [
+    "index.js",
+    "template-*"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=14.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vobyjs/voby-app-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vobyjs/voby-app-cli/issues"
+  },
+  "homepage": "https://github.com/vobyjs/voby-app-cli#readme",
+  "dependencies": {
+    "kolorist": "^1.5.1",
+    "minimist": "^1.2.6",
+    "prompts": "^2.4.2"
+  }
+}
