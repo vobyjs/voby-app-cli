@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
+import voby from "voby-vite";
 import WindiCSS from "vite-plugin-windicss";
-import voby from "voby/vite";
 
 export default defineConfig({
   plugins: [

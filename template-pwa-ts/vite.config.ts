@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
-import voby from "voby/vite";
+import voby from "voby-vite";
 import { VitePWA } from "vite-plugin-pwa";
 
 export default defineConfig({

@@ -12,7 +12,8 @@
   "license": "MIT",
   "devDependencies": {
     "unocss": "^0.32.13",
-    "vite": "^2.9.7"
+    "vite": "^2.9.7",
+    "voby-vite": "^1.0.0"
   },
   "dependencies": {
     "voby": "*"

@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
-import voby from "voby/vite";
+import voby from "voby-vite";
 import UnocssPlugin from "unocss/vite";
 import { presetMini } from "@unocss/preset-mini";
 
