@@ -8,23 +8,23 @@
 With NPM:
 
 ```bash
-$ npm init voby@latest
+$ npm init voby-app@latest
 ```
 
 ```bash
-$ npx create-voby@latest
+$ npx create-voby-app@latest
 ```
 
 With Yarn:
 
 ```bash
-$ yarn create voby
+$ yarn create voby-app
 ```
 
 With PNPM:
 
 ```bash
-$ pnpm create voby
+$ pnpm create voby-app
 ```
 
 Then follow the prompts!
@@ -33,20 +33,20 @@ You can also directly specify the project name and the template you want to use 
 
 ```bash
 # npm 6.x
-npm init voby@latest my-voby-app --template [template]
+npm init voby-app@latest my-voby-app --template [template]
 
-npx create-voby@latest my-voby-app --template [template]
+npx create-voby-app@latest my-voby-app --template [template]
 
 # npm 7+, extra double-dash is needed:
-npm init voby@latest my-voby-app -- --template [template]
+npm init voby-app@latest my-voby-app -- --template [template]
 
-npx create-voby@latest my-voby-app -- --template [template]
+npx create-voby-app@latest my-voby-app -- --template [template]
 
 # yarn
-yarn create voby my-voby-app --template [template]
+yarn create voby-app my-voby-app --template [template]
 
 # pnpm
-pnpm create voby my-voby-app -- --template [template]
+pnpm create voby-app my-voby-app -- --template [template]
 ```
 
 Currently supported template presets include:
