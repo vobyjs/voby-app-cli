@@ -92,4 +92,4 @@ Feel free to make a pull request. Copy one of the template already available, tw
 
 ## Contributing
 
-You can create your own template and prefix it with `[template][name]` for JS template or `[template][[name]-ts` for TS template and giving it a name that describe the purpose.
+You can create your own template and prefix it with `template-[name]` for JS template or `template-[name]-ts` for TS template and giving it a name that describe the purpose.
