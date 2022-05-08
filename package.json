@@ -1,9 +1,10 @@
 {
-  "name": "create-voby-app",
+  "name": "create-voby",
   "version": "1.0.0",
   "license": "MIT",
   "author": "ZeAmanuel Tigistu",
   "bin": {
+    "create-voby": "index.js",
     "create-voby-app": "index.js"
   },
   "files": [
