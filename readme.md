@@ -3,7 +3,7 @@
 ## The official CLI for starting a new Voby project quickly.
 
 > **Warning ⚠️**
-> Voby App CLI is down for now & it will up again in 24 hours. You have to use [degit](https://github.com/Rich-Harris/degit) for now. See [community-templates](#community-templates) 
+> Voby App CLI is down for now & it will up again in 24 hours. You have to use [degit](https://github.com/Rich-Harris/degit) for now. See [community-templates](#community-templates).
 
 > **Compatibility Note:**
 > Vite requires [Node.js](https://nodejs.org/en/) version >=14.6.0. However, some templates require a higher Node.js version to work, please upgrade if your package manager warns about it.
@@ -56,8 +56,8 @@ Currently supported template presets include:
 
 - `minimal`
 - `minimal-ts`
-- `tailwindcss`
-- `tailwindcss-ts`
+- `tailwind`
+- `tailwind-ts`
 - `windicss`
 - `windicss-ts`
 - `unocss`
