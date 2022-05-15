@@ -8,23 +8,23 @@
 With NPM:
 
 ```bash
-$ npm init voby-app@latest
+npm init voby-app@latest
 ```
 
 ```bash
-$ npx create-voby-app@latest
+npx create-voby-app@latest
 ```
 
 With Yarn:
 
 ```bash
-$ yarn create voby-app
+yarn create voby-app
 ```
 
 With PNPM:
 
 ```bash
-$ pnpm create voby-app
+pnpm create voby-app
 ```
 
 Then follow the prompts!
